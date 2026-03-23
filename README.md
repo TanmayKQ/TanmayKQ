@@ -22,5 +22,5 @@ Node.js · Express · React · Next.js · MongoDB · Firebase ·
 FastAPI · Python · Java · TailwindCSS
 
 📬 tanmaykotak22@gmail.com
-🌐 tanmay-devprofile.vercel.app
-```
+🌐 [tanmay-devprofile.vercel.app](https://tanmay-devprofile.vercel.app/)
+
